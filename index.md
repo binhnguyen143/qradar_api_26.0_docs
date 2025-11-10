@@ -1,5 +1,6 @@
 # REST API Version 26.0 references
 
+*  [What's new in REST API Version 26.0](c_rest_api_whats_new_260.html)
 *  [access endpoints](c_rest_api_version260_access_intro.html)
     *  [GET /access/login\_attempts](26.0--access-login_attempts-GET.html)
 *  [analytics endpoints](c_rest_api_version260_analytics_intro.html)
