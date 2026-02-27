@@ -3,9 +3,3 @@
 /out/
 
 /temp/
-
-# Python bytecode
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
